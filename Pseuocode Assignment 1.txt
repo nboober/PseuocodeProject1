@@ -1,0 +1,31 @@
+1)
+I(Input)
+Declare 10 different int Score variables with different scores
+Declare an empty int Sum Variable
+Declare an empty int Average Variable
+
+P(Processing)
+Calculate the sum of all scores and assign to the sum variable
+Divide the Sum variable by 10 and assign answer to average variable
+
+O(Output)
+Output average variable
+
+2)
+I
+Declare an int variable for the foot length of the roof
+Declare an int variable for the foot width of the roof
+Declare an empty int variable for the inch length of the roof
+Declare an empty int variable for the inch width of the roof 
+Declare an int rainfall variable for the amount of rainfall in inches
+Declare an int total water variable
+Declare a double gallons variable
+
+P
+Convert the foot length to inches and assign the answer to the inch length variable
+Convert the foot width to inches and assign the answer to the inch width variable
+Multiply the inches roof dimension variables by the rainfall variable and assign the answer to the total rainfall variable
+Divide the Total Water variable by 231 and assign the answer to the gallons variable
+
+O
+Output the Gallons variable
